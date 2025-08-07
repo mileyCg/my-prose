@@ -14,11 +14,13 @@ miteinander arbeiten, beachte bitte die folgende:
    Versuch bitte so zu bennen, dass die Funktion deutig macht
    ❌ feature/new-a-feature 
    ✅ z.B. feature/toUpperLetter-Feature 
-3. **Commit**
+3. **Comment**
+   Eure codes sinnvoll kommentieren!
+4. **Commit**
    Kurz aber knackig! 
    ❌ "things work"
    ✅ "method turning to upper class implemented."
-4. **IMMER IMMER IMMER! Führe Tests aus!**
-5. **Erstelle eine Pull-Request**
+5. **IMMER IMMER IMMER! Führe Tests aus!**
+6. **Erstelle eine Pull-Request**
 
 Ich freu mich auf eure Inputs!
