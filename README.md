@@ -3,12 +3,12 @@ This is an app which turns sentences to prose.
 
 ## Usage
 
-```python
 # return ["Hello", "world"]
+```python
 simpleSentence.getWord("Hello world")
-
-```python 
+ 
 # return "The cat eats Taco. With Cheese and Tomato."
+```python
 simpleSentences[] sentences = new simpleSenteces["The cat eats Taco.", "With Cheese and 
 Tomato."]
 simpleProse.getText(sentences)
