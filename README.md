@@ -3,15 +3,15 @@ This is an app which turns sentences to prose.
 
 ## Usage
 
-# return ["Hello", "world"]
 ```python
+# return ["Hello", "world"]
 simpleSentence.getWord("Hello world")
  
 # return "The cat eats Taco. With Cheese and Tomato."
-```python
 simpleSentences[] sentences = new simpleSenteces["The cat eats Taco.", "With Cheese and 
 Tomato."]
 simpleProse.getText(sentences)
+```
 
 ## Contributing
 
@@ -26,5 +26,6 @@ Please make sure to update tests as appropriate.
 # For Exercise 3
 
 ## Usage
-```python 
+```bash 
 java App.java
+```
