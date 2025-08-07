@@ -22,3 +22,9 @@ Please make sure to update tests as appropriate.
 
 ## License
 [OSL-3.0 ](https://opensource.org/license/osl-3-0-php)
+
+# For Exercise 3
+
+## Usage
+```python 
+java App.java
