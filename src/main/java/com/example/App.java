@@ -20,14 +20,34 @@
 
 package com.example;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        printAnswers();
     }
+
+
+	public static void printAnswers() {
+	String[] answers = {"a a a","b b b","c c c","d d d"};
+	System.out.println("-------Execise 3--------");
+	for (int index = 0; index < answers.length - 1 ; index ++)
+		{ if (index % 2 == 0){ if (index == 0){
+        System.out.println("Question 1 : ");
+        System.out.println(answers[index]);
+        System.out.println();
+}
+	System.out.println("Question"  + index + ": ");
+	System.out.println(answers[index]);
+	System.out.println();
+	} else {
+	System.out.println("Answer: ");
+	System.out.println(answers[index]);
+	System.out.println();
+		}	
+	}
+
+}
+
+
 }
