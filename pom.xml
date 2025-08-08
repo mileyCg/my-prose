@@ -4,17 +4,18 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>de.htw_berlin.fb4.ossd</groupId>
-  <artifactId>prose_builder</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <groupId>com.example</groupId>
+  <artifactId>my_prose</artifactId>
+  <version>1.0-SNAPSHOT</version>
 
-  <name>prose_builder</name>
+  <name>my-prose</name>
   <description>A simple prose_builder.</description>
-  <url>https://github.com/bs-jokri/prose-builder</url>
+  <url>https://maven.pkg.github.com/mileyCg/my-prose</url>
   <licenses>
     <license>
-      <name>MIT</name>
-      <url>https://spdx.org/licenses/MIT.html</url>
+      <name>Open Software License 3.0 (OSL-3.0)</name>
+      <url>https://opensoure.org/license/osl-3-0-php</url>
+      <distribution>repo</distribution>
     </license>
   </licenses>
 
